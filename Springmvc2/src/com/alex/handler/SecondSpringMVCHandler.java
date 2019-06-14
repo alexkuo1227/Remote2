@@ -13,7 +13,7 @@ import com.alex.exception.MyArrayIndexOutofBoundsException;
 
 @Controller
 @RequestMapping("Second")
-//1231235+5555
+//1231235+555
 //helloword
 public class SecondSpringMVCHandler  {
 	
