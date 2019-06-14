@@ -14,7 +14,7 @@ import com.alex.exception.MyArrayIndexOutofBoundsException;
 @Controller
 @RequestMapping("Second")
 //123
-
+//helloword
 public class SecondSpringMVCHandler  {
 	
 	@RequestMapping("testExceptionHandler")
